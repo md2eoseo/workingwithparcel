@@ -1,0 +1,23 @@
+{
+  "name": "workingwithparcel",
+  "version": "0.0.1",
+  "description": "working with parcel",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel *.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/md2eoseo/workingwithparcel.git"
+  },
+  "author": "2eoseo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/md2eoseo/workingwithparcel/issues"
+  },
+  "homepage": "https://github.com/md2eoseo/workingwithparcel#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
